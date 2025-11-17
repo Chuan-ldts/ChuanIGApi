@@ -4,7 +4,7 @@ bot = ChuanIGApi()
 bot.Login(username='Insert your username.', password='Insert your password.')
 
 # LIKE
-# bot.like("https://www.instagram.com/p/CZ3hFeZlwdU/")
+# bot.like("https://www.instagram.com/p/DQ6gTTTgSM3")
 # bot.unlike("https://www.instagram.com/p/CZ3hFeZlwdU/")
 # bot.like_recent("ldt.system_test_account")
 
