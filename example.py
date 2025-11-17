@@ -13,8 +13,8 @@ bot.Login(username='Insert your username.', password='Insert your password.')
 # bot.comment_recent("ldt.system_test_account", "Hello,This is a Test Message")
 
 # FOLLOW
-# bot.follow("__cl__.py")
-# bot.unfollow("__cl__.py")
+# bot.follow("zhuo.shi_crystals")
+# bot.unfollow("zhuo.shi_crystals")
 
 # UPLOAD
 # bot.upload_post("panda.jpg", caption="I Love Panda.\nThis is a post test from LDT System\nDate:2022.02.12 02:37\nCreator:CL(Chuan)")
